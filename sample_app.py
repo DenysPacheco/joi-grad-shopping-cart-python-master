@@ -4,7 +4,8 @@ from src.model.shoppingcart import ShoppingCart
 
 
 def main():
-    product1 = Product(10.0, "DIS_10_PRODUCT1", "product 1")
+    product1 = Product(10.0, "DIS_5_TOTAL_12pek", "product 1")
+    # product1 = Product(10.0, "DIS_10_PRODUCT1", "product 1")
     product2 = Product(20.0, "DIS_10_PRODUCT2", "product 2")
 
     products = [product1, product2]
